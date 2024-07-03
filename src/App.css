@@ -1,0 +1,25 @@
+
+
+
+
+.container{
+    max-width: 1200px;
+    margin: 0px auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.btn{
+    padding: 10px 15px ;border-radius: 3px;
+    background: green;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+th{
+    margin-top: 30px;
+}
